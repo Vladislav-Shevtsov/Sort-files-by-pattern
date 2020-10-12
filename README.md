@@ -3,9 +3,13 @@
 This script is aimed to sort files to folders according to their name.
 
 ### Input fiels pattern ###
+
 Assuming that all follwing files located in a single folder:
+
 Tul-92_S45_R2_insilico-FT-9_16bp_164bp_4u_OUT.fastq_FAREADS.fasta
+
 Tul-92_S45_R2_insilico-FT-6_16bp_129bp_2u_OUT.fastq_FAREADS.fasta 
+
 Tul-92_S45_R2_insilico-FT-2_16bp_139bp_2u_OUT.fastq_FAREADS.fasta
 Tul-92_S45_R1_Ft-InSil6_5bp_94bp_3u_OUT.fastq_FAREADS.fasta
 Tul-92_S45_R1_Ft-InSil3_4bp_152bp_3u_OUT.fastq_FAREADS.fasta
