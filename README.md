@@ -47,10 +47,10 @@ As a result, there are two folders where we have loci files that correspond to f
 
 python3 mv_to_folder.py /path/to/directory #This command will sort all fasta files according to their name and put them into separate folders 
 
-Note: the script should be executed in same direcrory with fasta files, "./" argument can be used as path for current directory
+Note: the script must be run in same direcrory with fasta files, "./" argument can be used as path for current directory
 
 Written by Shevtsov V.
 
 #For any questions please open issue on github or email me at xatabadich(at)gmail.com
 
-Note: script must be run in the same directory where files located.
+
