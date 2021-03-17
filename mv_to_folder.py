@@ -1,7 +1,8 @@
 import os
 import shutil
+import sys
 
-dir = 'path to fasta/files'
+dir = sys.argv[1]
 
 files = os.listdir(dir)
 for sample in files:
