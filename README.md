@@ -49,6 +49,8 @@ python3 mv_to_folder.py /path/to/directory #This command will sort all fasta fil
 
 Note: the script should be executed in same direcrory with fasta files, "./" argument can be used as path for current directory
 
-Written by Vladislav Shevtsov xatabadich(at)gmail.com
+Written by Shevtsov V.
+
+#For any questions please open issue on github or email me at xatabadich(at)gmail.com
 
 Note: script must be run in the same directory where files located.
