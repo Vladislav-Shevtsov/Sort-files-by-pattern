@@ -10,8 +10,8 @@ for sample in files:
     j = 1
     k = 1
     g = 1
-    fnam = os.path.basename(sample[0:12]).format(i)
-    fnams = os.path.basename(sample[0:12]).format(j)
+    fnam = os.path.basename(sample[0:16]).format(i)
+    fnams = os.path.basename(sample[0:16]).format(j)
     ftomove = os.path.basename(sample).format(k)
     while not os.path.exists(fnam):
         os.mkdir(fnam)
